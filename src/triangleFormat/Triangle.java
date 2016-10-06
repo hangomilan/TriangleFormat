@@ -20,8 +20,7 @@ public class Triangle {
 		
 /*
  output:
-      
-	 m
+     m
     iii
    lllll
   aaaaaaa
