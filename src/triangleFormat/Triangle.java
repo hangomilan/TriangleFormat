@@ -3,6 +3,8 @@ package triangleFormat;
 public class Triangle {
 
 	static void triangleString(String inputString) {
+		System.out.println();
+
 		for (int i = 0; i < inputString.length(); i++) {
 
 			for (int k = 0; k < inputString.length() - i; k++) {
